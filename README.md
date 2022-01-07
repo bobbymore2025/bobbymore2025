@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @bobbymore2025
-- 👀 I’m interested in ...
+- 👋 Hi, I’m BOBBY MORE
 - 🌱 I’m currently learning  MERN STACK
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me bobbymore2025@gmail.com
