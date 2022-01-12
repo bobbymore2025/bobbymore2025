@@ -25,10 +25,10 @@
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
 </p>
-<h3><i>Interested on my top projects? <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /></i></h3>
+<h3><i>Interested on my top projects? </h3>
 <p align="left">
 <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate" /></a> &nbsp;
-<a href="https://github.com/m-sehrawat/Adidas-Website-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="adidas"/></a>
+<a href="https://github.com/iampankajk/Forest-Project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Forest Essectial&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="adidas"/></a>
 </p>
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
