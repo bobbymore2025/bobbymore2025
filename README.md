@@ -5,7 +5,7 @@
 -currently I'm learning React , Data Structure and Algorithm.
 
 -Reach me on 
--Email: bobbymore2025@gmail.com
+-Email: bobbymore2025@gmail.com                                                                                                                .
 -LinkedIn: https://www.linkedin.com/in/bobby-more-a094bb216/
 -Portfolio: https://keen-cray-689215.netlify.app/
 
