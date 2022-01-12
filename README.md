@@ -27,11 +27,11 @@
 </p>
 <h3><i>Interested on my top projects? </h3>
 <p align="left">
-<a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate" /></a> &nbsp;
-<a href="https://github.com/iampankajk/Forest-Project" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Forest Essectial&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="forest Essential"/></a>
+<a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate" /></a> &nbsp;
+<a href="https://github.com/iampankajk/Forest-Project" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Forest Essectial&color=000000&logo=forest&logoColor=FFFFFF&label=" alt="forest Essential"/></a>
 </p>
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bobby-more-a094bb216/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bobby More" /></a>
-  <a title="bobbymore2025@gmail.com" href="mailto:bobbymore2025@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="m-sehrawat" /></a> 
+<a href="https://www.linkedin.com/in/bobby-more-a094bb216/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bobby More" /></a>
+  <a title="bobbymore2025@gmail.com" href="mailto:bobbymore2025@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="bobbymore2025@gmail.com" /></a> 
 </p>
