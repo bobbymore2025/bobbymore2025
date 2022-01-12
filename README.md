@@ -2,7 +2,7 @@
 <h4><i>I'm a Full Stack Web Developer skilled in MERN stack .</i></h4>
 
 
--I’m currently learning React.
+-currently I'm learning React , Data Structure and Algorithm.
 
 -Reach me on email bobbymore2025@gmail.com
 
